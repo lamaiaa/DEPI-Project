@@ -1,15 +1,10 @@
-#DEPI-Digital-Egypt-Pioneers-Initiative
+# DEPI (Digital Egypt Pioneers Initiative)
 
-#Group Code
+# Group Code
 ONL3_ISS3_S1
-
-#Track
+# Track
 Infrastructure and Security - Vulnerability Analyst and Penetration Tester
-
-#Team Name
-Dark Side 
-
-## Team Members
+# Team Members
 1-Lamiaa Ahmed Diab
 2-Malak Ezzat Nabil
 3-Mohamed Ebrahim Fathy
